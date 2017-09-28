@@ -1,0 +1,15 @@
+{
+    "title": "Project DEF",
+    "baseURL": "https:\/\/def.com\/hij",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758991",
+        "subfolder": "\/hij",
+        "firstpartycookies": true,
+        "cookiedomain": "def.com"
+    }
+}
